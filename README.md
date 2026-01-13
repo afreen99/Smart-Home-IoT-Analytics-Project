@@ -34,14 +34,14 @@ The smart_home.db SQLite database contains four main tables:
    - F1-Score: 0.554
 
 2. Random Forest
-   - Accuracy: 74.1%
-   - AUC-ROC: 0.797
-   - F1-Score: 0.00
+   - Accuracy: 73.0%
+   - AUC-ROC: 0.780
+   - F1-Score: 0.07
 
 3. Gradient Boosting
-   - Accuracy: 75.7%
-   - AUC-ROC: 0.776
-   - F1-Score: 0.384
+   - Accuracy: 76.8%
+   - AUC-ROC: 0.789
+   - F1-Score: 0.394
      
 ### Key Features
 
